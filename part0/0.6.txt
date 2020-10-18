@@ -1,0 +1,15 @@
+Exercise 0.6
+
+note over browser: 
+ads the new note to the array of notes &
+executes js-code that sends a post request with the new note
+end note
+
+browser->server: HTTP POST  https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: {"message":"note created"}
+
+
+
+
+
+
